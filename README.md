@@ -31,7 +31,7 @@
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,angular,react,nextjs,redux,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nextjs,redux,materialui,bootstrap" />
 </p>
 
 ### ⚙️ Back-End & Databases
