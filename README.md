@@ -9,7 +9,9 @@
 <a href="https://portfolio-hhax.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-366CBF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nidawah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nidawaheed952@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<br/><br/>
+
+📍 **Lahore, Pakistan**
 
 </div>
 
